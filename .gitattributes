@@ -1,0 +1,4 @@
+data filter=lfs diff=lfs merge=lfs -text
+Fig5_Fig10to12_plot_codes.ipynb filter=lfs diff=lfs merge=lfs -text
+readme.txt filter=lfs diff=lfs merge=lfs -text
+requirements.txt filter=lfs diff=lfs merge=lfs -text
