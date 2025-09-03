@@ -1,5 +1,5 @@
 # LessRad_OLR_paper_codes
-This repository contains the Python (Jupyter Notebook) code used to generate specific figures (Figure 5, and Figures 10-12 in the manuscript, corresponding to Figures 5, 10, 11, and 12 in the notebook execution, respectively) for the ESSD paper titled: "LessRad OLR: A New High-Resolution (0.05°, Hourly) Outgoing Longwave Radiation Dataset for Climate Monitoring from MODIS".
+This repository contains the Python (Jupyter Notebook) code used to generate specific figures (Figure 5, and Figures 10-12 in the manuscript, corresponding to Figures 5, 10, 11, and 12 in the notebook execution, respectively) for the BED paper titled: "LessRad OLR: A New High-Resolution (0.05°, Hourly) Outgoing Longwave Radiation Dataset for Climate Monitoring from MODIS".
 
 The code performs comparative analysis of various Outgoing Longwave Radiation (OLR) products, including the newly developed LessRad OLR, CERES SYN OLR, ERA5 OLR, CLARA-A3 OLR, and HIRS OLR, against the CERES EBAF OLR benchmark. Analyses focus on global and regional (Global Land/Ocean, Deserts, Deep Convective Regions, Polar Regions, Tibetan Plateau) monthly mean Bias and RMSE.
 
