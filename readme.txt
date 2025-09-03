@@ -39,4 +39,5 @@ The LessRad OLR dataset itself is available at: https://doi.org/10.11888/Atmos.t
 
 ## Contact
 
-For any questions regarding the code or data, please contact lidh59@mail2.mail.sysu.edu.cn or wangtx23@mail.sysu.edu.cn.
+
+For any questions regarding the code or data, please contact lidh59@alumni.sysu.edu.cn or wangtx23@mail.sysu.edu.cn.
