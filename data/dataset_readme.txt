@@ -28,22 +28,12 @@ All data files provided here are:
     * Original Resolution: Approx. 0.25°, hourly.
     * Variable name within NetCDF: `ERA5 OLR`
 
-4.  **`CLARA_A3_monthly_OLR_2001to2023_1degree.nc`**:
-    * Description: Monthly mean EUMETSAT CM SAF CLARA-A3 OLR, resampled from its native resolution to 1°x1°.
-    * Original Resolution: 0.25°, daily.
-    * Variable name within NetCDF: `CLARA-A3 OLR`
-
-5.  **`HIRS_monthly_OLR_2001to2023_1degree.nc`**:
-    * Description: Monthly mean NOAA HIRS OLR CDR (v01r02).
-    * Original Resolution: 1°x1°, daily (as per manuscript; some versions might be 2.5°).
-    * Variable name within NetCDF: `HIRS OLR`
-
-6.  **`CERES_EBAF_monthly_OLR_2001to2023_1degree.nc`**:
+4.  **`CERES_EBAF_monthly_OLR_2001to2023_1degree.nc`**:
     * Description: Monthly mean CERES EBAF OLR product (Edition 4.2.1), used as the benchmark.
     * Original Resolution: 1°x1°, monthly.
     * Variable name within NetCDF: `CERES EBAF OLR`
 
-7.  **`land_sea_mask_1degree.nc`**:
+5.  **`land_sea_mask_1degree.nc`**:
     * Description: Land-sea mask on a 1°x1° global grid. Used for regional analysis (separating land and ocean statistics).
     * Variable name within NetCDF: `lsm` (1 for land, 0 for ocean).
 
